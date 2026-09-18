@@ -20,4 +20,4 @@
 - —
 
 ## Указатели
-- Последний день: summaries/daily/2026-09-17 · Индекс: vault/MOC.md
+- Последний день: summaries/daily/2026-09-18 · Индекс: vault/MOC.md
