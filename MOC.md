@@ -4,5 +4,5 @@
 Регенерится ночью (autograph `moc.py generate`) — может слегка отставать; если пусто, ищи через `grep`.
 
 - [[MOC/MOC-knowledge]] — карточек: 7
-- [[MOC/MOC-personal]] — карточек: 29
+- [[MOC/MOC-personal]] — карточек: 30
 - [[MOC/MOC-work]] — карточек: 6

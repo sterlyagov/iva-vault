@@ -10,7 +10,7 @@ source: "daily/2026-09-01.md"
 updated: "2026-09-02"
 last_accessed: "2026-09-02"
 tier: "warm"
-relevance: 0.7
+relevance: 0.685
 ---
 
 # SMM группы водителей Море55 в Омске
