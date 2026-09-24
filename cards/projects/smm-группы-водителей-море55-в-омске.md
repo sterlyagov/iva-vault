@@ -9,8 +9,8 @@ created: "2026-09-01"
 source: "daily/2026-09-01.md"
 updated: "2026-09-02"
 last_accessed: "2026-09-02"
-tier: "warm"
-relevance: 0.685
+tier: "cold"
+relevance: 0.67
 ---
 
 # SMM группы водителей Море55 в Омске

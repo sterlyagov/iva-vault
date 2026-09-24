@@ -9,7 +9,7 @@ created: "2026-08-30"
 source: "daily/2026-08-30.md"
 last_accessed: "2026-08-31"
 tier: "cold"
-relevance: 0.655
+relevance: 0.64
 ---
 
 # Организация SMM-команды из трёх человек
