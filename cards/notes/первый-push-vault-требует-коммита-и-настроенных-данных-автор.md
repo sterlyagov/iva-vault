@@ -8,8 +8,8 @@ domain: "knowledge"
 created: "2026-09-18"
 source: "daily/2026-09-18.md"
 last_accessed: "2026-09-18"
-tier: "active"
-relevance: 0.895
+tier: "warm"
+relevance: 0.88
 updated: "2026-09-19"
 ---
 
