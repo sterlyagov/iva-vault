@@ -10,7 +10,7 @@ source: "daily/2026-09-02.md"
 updated: "2026-09-03"
 last_accessed: "2026-09-02"
 tier: "cold"
-relevance: 0.64
+relevance: 0.625
 ---
 
 # Голосовые ответы Ивы через OpenAI TTS
