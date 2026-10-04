@@ -10,6 +10,7 @@ source: "daily/2026-09-02.md"
 last_accessed: "2026-09-02"
 tier: "cold"
 relevance: 0.61
+truth_date: "2026-10-04"
 ---
 # Генерация видео Sora для Ивы
 
