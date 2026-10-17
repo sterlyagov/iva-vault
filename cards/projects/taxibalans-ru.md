@@ -5,8 +5,11 @@ tags: ["project"]
 status: "active"
 created: "2026-10-17"
 source: "daily/2026-10-17.md"
+truth_date: "2026-10-17"
 ---
 # taxibalans.ru
+
+Рабочий сайт владельца — taxibalans.ru. У Ивы нет SSH-доступа к серверу; владелец выбрал самостоятельную выкладку.
 
 ## Log
 

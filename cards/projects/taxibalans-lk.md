@@ -5,8 +5,13 @@ tags: ["project"]
 status: "active"
 created: "2026-10-17"
 source: "daily/2026-10-17.md"
+truth_date: "2026-10-17"
 ---
 # taxibalans-lk
+
+Приватный репозиторий сайта и ботов: https://github.com/sterlyagov/taxibalans-lk. По словам владельца, всё относящееся к сайту и ботам должно находиться в нём.
+Владелец сообщил, что отправил в GitHub ветку feature/rentcar-document-drafts на коммите e0a6be8, предварительно влив в неё последний main; по его словам, проходят 50 тестов.
+Последний присланный вывод с рабочего сервера показывал main на коммите 2fe6b0c, без новых миграций импорта и маршрута api/iva/car-document-drafts на тот момент.
 
 ## Log
 
